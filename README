@@ -1,0 +1,28 @@
+Welcome to the Olfactory Time Machine! This guide will walk you through the steps of using the application to generate personalized fragrance recommendations based on your memories and preferences.
+
+#### 1. Getting Started
+- **Installation:** Ensure you have Python installed on your system.
+- **Downloading the Prototype:** Download the Olfactory Time Machine files from the provided link.
+- **Dependencies:** Install the necessary Python libraries specified in the requirements.txt file using the command `pip install -r requirements.txt`.
+
+#### 2. Running the Prototype
+- **Launching the Application:** Navigate to the directory containing the prototype files in your terminal.
+- **Initiating the Prototype:** Run the prototype script using the command `python3 main.py`.
+- **Loading the Pretrained Model:** The prototype will load the pretrained model, which may take 30 seconds to 1 minute.
+
+#### 3. Inputting Your Memory
+- **Describing Your Memory:** Once the prototype is loaded, you will be prompted to describe a memory associated with a scent. Type your memory description in the provided text box and press Find to proceed.
+- **Example:** "It is a happy Christmas dinner. I can hear people having pleasant conversation. The dinning room is warm and I can smell a sweet pie topped with walnuts."
+
+#### 4. Receiving Recommendations
+- **Viewing Recommendations:** After submitting your memory description, the prototype will process the input and generate personalised fragrance recommendations based on your memory description.
+- **Examining Output:** The recommendations will be displayed in three categories: Top Notes, Middle Notes, and Base Notes. Each category represents its longevity.
+
+#### 5. Exploring Variations
+- **Exploring Top Notes:** Note that the Top Notes category may change with each recommendation, offering variations of personalized scents for creative and refreshing options.
+- **Experimenting:** Feel free to experiment with different memory descriptions.
+
+#### 6. Exiting the Application
+- **Closing the Prototype:** You can exit the application by closing the terminal window or pressing Ctrl + C.
+
+Thank you for using the Olfactory Time Machine! We hope you enjoy rediscovering personalised fragrance recommendations inspired by your cherished memories.
