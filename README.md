@@ -1,2 +1,7 @@
-# Text-to-fragrance-Recommendation-Tool
-An Olfactory Time Machine: Text-to-fragrance Recommendation Tool
+# An Olfactory Time Machine: Text-to-fragrance-Recommendation-Tool
+
+From the perspective of neuroscience, scents hold a remarkable ability to directly access the limbic system, a brain region closely linked with our emotions and memories. Consequently, individuals often find themselves transported back to specific moments when sensing certain fragrances, a phenomenon exemplified by Maison Margiela’s Replica perfumes. Gaining its reputation for evoking memories of diverse places and times such as cosy bookstores, sun- kissed beaches in summer, and crackling firewood in winter [1], these fragrance products offer the profound connection between scent and memory.
+
+Despite such olfactory experiences being prevalent, rediscovering a fragrance that triggers a specific memory personally remains a challenge. While AI-driven platforms provide personalised recommendations for colognes, recreating scents linked to individual memories stays mostly unexplored, given there do not exist many related market cases. Improving this area of research offers the purpose of this project that can be achieved through the strategic application of AI technology.
+
+This project aims to design and implement an innovative recommendation tool that can generate a structured list of fragrance notes based on users’ descriptions of their recollections. Unlike conventional fragrance recommendation systems that are limited to existing product catalogues, the tool will be developed to provide a highly personalized olfactory experience. With advanced AI technologies, this project will uncover the potential power of associating scents and memories.
